@@ -32,3 +32,8 @@ brew upgrade vapor/tap/vapor
 ->Command vapor xcode (for regenerating our project)
 -> Press y to open the project in xcode
 ->Done Dana Done Done
+
+<h3>Run the app</h3>
+In the browser go to the belo path
+
+http://localhost:8080/hello
