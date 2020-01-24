@@ -14,3 +14,7 @@ https://pusher.com/tutorials/getting-started-vapor-part-one
 brew install vapor/tap/vapor
 
 Source - https://docs.vapor.codes/3.0/install/macos/
+
+->Update to latest
+
+brew upgrade vapor/tap/vapor
