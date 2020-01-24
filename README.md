@@ -1,7 +1,7 @@
 # VaporServerSideSwift
 Learning Vapor
 
-->First let’s check that your system is capable of using Vapor by running the following command.
+<h3>First let’s check that your system is capable of using Vapor by running the following command. </h3>
 
 
 eval "$(curl -sL check.vapor.sh)"
