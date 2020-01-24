@@ -8,3 +8,9 @@ eval "$(curl -sL check.vapor.sh)"
 
 https://pusher.com/tutorials/getting-started-vapor-part-one
 
+
+<h3>Install Vapor Toolkit</h3>
+
+brew install vapor/tap/vapor
+
+Source - https://docs.vapor.codes/3.0/install/macos/
